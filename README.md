@@ -1,4 +1,4 @@
-# mini-projects
+# python-mini-projects
 A collection of mini, basic projects created using Python
 Potential Projects (to be updated once I start adding projects)
 Finance Tracking App
